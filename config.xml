@@ -16,9 +16,9 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <preference name="com.salesforce.marketingcloud.app_id" value="652cae4d-8724-4e90-bc29-1a86303fe213" />
-    <preference name="com.salesforce.marketingcloud.access_token" value="sfvWkj1b0hyybrqkYAUQVOK8" />
-    <preference name="com.salesforce.marketingcloud.tenant_specific_endpoint" value="https://mcpththcmp1-ls8tz6vz2ypfzz7q.device.marketingcloudapis.com/" />
+    <preference name="com.salesforce.marketingcloud.app_id" value="[appid]" />
+    <preference name="com.salesforce.marketingcloud.access_token" value="[apptoken]" />
+    <preference name="com.salesforce.marketingcloud.tenant_specific_endpoint" value="[endpoint]" />
     
     <platform name="android">
         <allow-intent href="market:*" />
