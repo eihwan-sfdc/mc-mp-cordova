@@ -1,0 +1,115 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-marketingcloudsdk",
+      "/Users/eihwan/dev/mc-mp-cordova"
+    ]
+  ],
+  "_from": "cordova-plugin-marketingcloudsdk@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-marketingcloudsdk@7.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-marketingcloudsdk",
+  "_nodeVersion": "12.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-marketingcloudsdk_7.1.0_1585679833694_0.1787267973844311"
+  },
+  "_npmUser": {
+    "email": "troach@salesforce.com",
+    "name": "troach_salesforce"
+  },
+  "_npmVersion": "6.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-marketingcloudsdk",
+    "raw": "cordova-plugin-marketingcloudsdk",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-marketingcloudsdk/-/cordova-plugin-marketingcloudsdk-7.1.0.tgz",
+  "_shasum": "39fe31ed979e9efd07ef70f0d8a485d0c4223248",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-marketingcloudsdk",
+  "_where": "/Users/eihwan/dev/mc-mp-cordova",
+  "author": {
+    "name": "Salesforce Marketing Cloud"
+  },
+  "bugs": {
+    "url": "https://github.com/salesforce-marketingcloud/MC-Cordova-Plugin/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-marketingcloudsdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "A Cordova Plugin to access the native Salesforce Marketing Cloud MobilePush SDKs",
+  "devDependencies": {
+    "clang-format": "^1.4.0",
+    "dmd-plugin-cordova-plugin": "^0.1.0",
+    "eslint": "^4.3.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "husky": "^0.10.1",
+    "jsdoc-to-markdown": "^5.0.3"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 45,
+    "integrity": "sha512-KdRl+i6UjnWYWMj7yAXT/gy/6IImXrnvHaHSHl9qKQMelY5kvldoWJna5B+MaPrsSLb9LP+QZNT5EMVF2VMJ4A==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeg43aCRA9TVsSAnZWagAAmgQP/0d7W0tdX5dQ2IxKYfXi\nQUmQGkTglounGxcLNQevB3YkhNNPcLUG2k5vLxZijctaghLAYH1NLKP9JuIa\nHqpIFzsYHCYSHhNH2Ua4x9uDVHWDBkNXdsE/hk1xLFtWflv78HWUjh6XGK+1\n0jXe02q26zQNeJ5ORHgyYwt4ZL+WUF+pgMJ9y1A5AfshyK19aOgfnJjUP4Qr\nExVA48Oq315w3ZldwE/ftZQA1NjyMylQNl+yFsC4QQjhqP/7GRhkGcYnvMuu\n5bL/GTDdqqqnBfM9WMI/bh0i1sED+Acp4Gl+qFEvdMFzgpmVYgGKcpUhGkM7\niNd1HJpKiEPqv3CNcBa+nrAPk2E/AtBj3kh53K1xW00CtPzEqtlQD4aFWPso\n/Qps7cf0ttgSip39/flZucjrfYsovzgh4WkpkP+SAp5wuprT8Vns88KooXG6\nvqOO7UzugJU/Vfl7IGB12JDVcIFI1R/kqTcHQNsvl3U5culQ8yQ2RLDEb1Of\nf83BZVbxZpX2vA0H2wEWZvp57sXxO8OHEK78cJ+2XEirgo2Wy4W9O19TCdkB\nfla5ptR5v1hPIScCGDWOXPE98OgpTb17PZfD4FeqmcZ8XUk45nQJvDPkTtdx\nBGQLPqYJTezcyJJa56HRkaQXg7ZVV7s3NmZZY+rZdqA8Od3nmXScXFDITXgM\n/zfy\r\n=bUT3\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "39fe31ed979e9efd07ef70f0d8a485d0c4223248",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-marketingcloudsdk/-/cordova-plugin-marketingcloudsdk-7.1.0.tgz",
+    "unpackedSize": 276348
+  },
+  "gitHead": "b3cb1b48936db84a31b789374cd49b98a11c004c",
+  "homepage": "https://github.com/salesforce-marketingcloud/MC-Cordova-Plugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "salesforce",
+    "mobilepush",
+    "marketingcloud",
+    "marketingcloudsdk"
+  ],
+  "license": "BSD-3-Clause",
+  "maintainers": [
+    {
+      "email": "bcriscuolo@salesforce.com",
+      "name": "bcriscuolo"
+    },
+    {
+      "email": "seth.clark@salesforce.com",
+      "name": "seth.clark"
+    }
+  ],
+  "name": "cordova-plugin-marketingcloudsdk",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salesforce-marketingcloud/MC-Cordova-Plugin.git"
+  },
+  "scripts": {
+    "eslint": "node node_modules/eslint/bin/eslint www && node node_modules/eslint/bin/eslint src",
+    "format": "clang-format -i -style=file src/android/MCCordovaPlugin.java src/android/MCInitProvider.java src/android/MCSdkConfig.java src/ios/AppDelegate+MCCordovaPlugin.h src/ios/AppDelegate+MCCordovaPlugin.m src/ios/MCCordovaPlugin.h src/ios/MCCordovaPlugin.m tests/ios/MCCordovaPluginLib/Tests/Tests.m www/MCCordovaPlugin.js",
+    "gen-docs": "jsdoc2md --template \"jsdoc2md/TEMPLATE.md\" \"www/**/*.js\" --plugin \"dmd-plugin-cordova-plugin\" > README.md",
+    "precommit": "npm run format && npm test && npm run gen-docs && git add README.md",
+    "test": "npm run eslint"
+  },
+  "version": "7.1.0"
+}

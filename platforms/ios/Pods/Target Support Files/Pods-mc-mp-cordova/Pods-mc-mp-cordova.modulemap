@@ -1,0 +1,6 @@
+framework module Pods_mc_mp_cordova {
+  umbrella header "Pods-mc-mp-cordova-umbrella.h"
+
+  export *
+  module * { export * }
+}

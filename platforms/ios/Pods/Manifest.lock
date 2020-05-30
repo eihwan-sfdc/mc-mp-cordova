@@ -1,0 +1,16 @@
+PODS:
+  - MarketingCloudSDK (7.1.1)
+
+DEPENDENCIES:
+  - MarketingCloudSDK (~> 7.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MarketingCloudSDK
+
+SPEC CHECKSUMS:
+  MarketingCloudSDK: 49c4061dfe832722e233da66f19115282ef3d08b
+
+PODFILE CHECKSUM: 87dbe4578a0e91274db9e74ef5c065a6c90a50a1
+
+COCOAPODS: 1.9.2
